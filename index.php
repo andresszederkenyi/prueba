@@ -1,3 +1,3 @@
 <?php
-  echo "Hola 2 3 22"; 
+  echo "Hola 2 3"; 
 ?>
